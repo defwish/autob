@@ -8,6 +8,7 @@ Fiecare fisier are un README.txt cu informatii utile despre fiecare script , est
 Fiecare fisier are un requirements.txt cu importurile necesare rularii .
 
 Fisierul script-AB contine toate cele 3 categorii de probleme:
-    1.Probleme SQL  &br;
-    2.Web Scraping   &br;
-    3.Prelucrare PDF 
+         1. Probleme SQL<br/>
+         2. Web Scraping <br/>
+         3. Prelucrare PDF
+    
