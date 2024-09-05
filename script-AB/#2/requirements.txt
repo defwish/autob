@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+pandas
+os
+openpyxl
+Flask
+bs4 
